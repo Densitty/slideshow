@@ -299,16 +299,16 @@
 @media (max-width: 500px) {
 	/* .slideshow {
 		width: 100%;
-	}
+	}*/
 
 	.slide {
-		width: 100%;
-	} */
+		width: 300px;
+	}
 
-	.content {
+	/* .content {
 		width: 300px;
 		padding: 0 75px 5px 10px;
-	}
+	} */
 
 	/* .content button {
 		width: 110px;
